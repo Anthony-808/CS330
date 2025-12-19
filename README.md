@@ -10,3 +10,5 @@ In developing the 3D scene, I learned how to work inside a large codebase. I do 
 How computer science helps me reach my goals:
 
 Computational graphics gave me insight into how everyday visual output is generated behind the scenes, which strengthens my understanding for future courses. Professionally, the skills I practiced: working within large systems, organizing code, and separating concerns, can be applied to any coding projects.
+
+The 3D Scene ZIP for this project can be downloaded from the Releases page: https://github.com/Anthony-808/CS330/edit/main/releases
